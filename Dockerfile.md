@@ -1,4 +1,4 @@
-# Dockerfile basics
+# Dockerfile basics
 
 The Dockerfile is a set of instructions used to build container images, including:
 
